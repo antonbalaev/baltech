@@ -5,7 +5,7 @@
 	}
 	
 	$name2 = $_POST['name2'];
-	$email2 = $_POST['email2'];
+	$tel2 = $_POST['tel2'];
 	$email2 = $_POST['email2'];
 	
 	$to = 'antonbalaev@gmail.com'; // Email submissions are sent to this email
@@ -13,7 +13,7 @@
 	// Create email	
 	$email_subject = "Baltech download PDF";
 	$email_body = "You have received a new message. \n\n".
-				  "Name2: $name2 \nEmail2: $email2 \nEmail2: $email2 \n";
+				  "Name2: $name2 \nTel2: $tel2 \nEmail2: $email2 \n";
 	$headers = "MIME-Version: 1.0\r\nContent-type: text/plain; charset=UTF-8\r\n";	
 	$headers .= "From: contact@baltech.us\n";
 	$headers .= "Reply-To: $email2";	
