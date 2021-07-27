@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://baltech.us</loc>
+	<lastmod>2021-07-27</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://baltech.us/img/BalTech%20logo%20color.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/Case%201.png</image:loc>
+	<image:title>Case%25201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/Case%206.png</image:loc>
+	<image:title>Case%25201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/Case%203.png</image:loc>
+	<image:title>Case%25201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/Case%204.png</image:loc>
+	<image:title>Case%25201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/Case%202.png</image:loc>
+	<image:title>Case%25201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/Case%205.png</image:loc>
+	<image:title>Case%25201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/BalTech%20logo%20white.png</image:loc>
+	<image:title>BalTech%2520logo%2520white</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://baltech.us/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
