@@ -1,5 +1,5 @@
 <?php	
-	if (empty($_POST['name2']) && strlen($_POST['name2']) == 0 || empty($_POST['email2']) && strlen($_POST['email2']) == 0 || empty($_POST['email2']) && strlen($_POST['email2']) == 0)
+	if (empty($_POST['name2']) && strlen($_POST['name2']) == 0 || empty($_POST['tel2']) && strlen($_POST['tel2']) == 0 || empty($_POST['email2']) && strlen($_POST['email2']) == 0)
 	{
 		return false;
 	}
